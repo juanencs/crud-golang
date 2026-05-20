@@ -1,2 +1,2 @@
-# crud-golang
+# GoLang - CRUD
 CRUD project in GoLang
